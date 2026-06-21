@@ -4,7 +4,7 @@ A calm, practical approach to planning your child’s financial future.
 
 ---
 
-## 📌 What this is
+## 📌 About
 
 A simple guide covering the **top 3 investment options for children in India**, with clear insights on:
 - Returns
