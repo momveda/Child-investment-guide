@@ -16,7 +16,6 @@ A simple guide covering the **top 3 investment options for children in India**, 
 ## 🌐 View the full guide
 
 👉 https://momveda.github.io/Child-investment-guide/
-
 👉 https://momveda.github.io/Child-investment-guide/detailed.html
 ---
 
